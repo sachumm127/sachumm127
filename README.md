@@ -16,3 +16,14 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sachumm127&show_icons=true&theme=tokyonight)
+
+
+
+⚙️ **Connect with Me**
+
+Thank you for your time.  
+It was nice having you here.
+
+If you have any queries or just wanna say Hi,  
+
+Thank you !!!

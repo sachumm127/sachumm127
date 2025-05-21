@@ -8,6 +8,8 @@
 - 📫 How to reach me: [email](mailto:sachumm127@gmail.com)
 - ⚡ Fun fact: I love riding bikes and playing crickets
 
+![visitors] (http://camo.githubusercontent.com/30356b6ce9f4f334d43ce9606b9871f60911acd5314077ea889ece45f22444b4/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d796f757361666b68616d7a61)
+
 ## 🛠️ Technologies & Tools
 - Scripting: Bash,Python
 - Cloud platform: AWS,Azure 

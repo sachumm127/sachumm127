@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love riding bikes and playing crickets
 
 ## 🛠️ Technologies & Tools
-- Languages: 
+- Scripting: Bash,Python
 - Clouds: AWS,Azure 
 - Tools: Git, Docker, VS Code,argocd,jenkins,terraform,ansible
 

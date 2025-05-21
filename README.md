@@ -15,4 +15,4 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?sachumm127=sachumm127&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sachumm127&show_icons=true&theme=tokyonight)

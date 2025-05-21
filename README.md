@@ -8,7 +8,6 @@
 - 📫 How to reach me: [email](mailto:sachumm127@gmail.com)
 - ⚡ Fun fact: I love riding bikes and playing crickets
 
-![visitors] (http://camo.githubusercontent.com/30356b6ce9f4f334d43ce9606b9871f60911acd5314077ea889ece45f22444b4/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d796f757361666b68616d7a61)
 
 ## 🛠️ Technologies & Tools
 - Scripting: Bash,Python
@@ -27,16 +26,18 @@
 
 
 
-⚙️ ***Connect with Me***
+                                           
 
-![Connect with me](https://camo.githubusercontent.com/a1b1abd42aca5f76f3a9703310101aaaa81465052764f56b499534149c091d76/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3530383265322673697a653d34302663656e7465723d74727565267643656e7465723d747275652677696474683d353530266865696768743d3430266c696e65733d436f6e6e6563742b776974682b6d65)
+                                            ⚙️ ***Connect with Me***
 
-Thank you for your time.  
-It was nice having you here.
+                                                ![Connect with me](https://camo.githubusercontent.com/a1b1abd42aca5f76f3a9703310101aaaa81465052764f56b499534149c091d76/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3530383265322673697a653d34302663656e7465723d74727565267643656e7465723d747275652677696474683d353530266865696768743d3430266c696e65733d436f6e6e6563742b776974682b6d65)
 
-If you have any queries or just wanna say Hi,  
+                                               
+                                               
+                                               Thank you for your time.  
+                                             It was nice having you here.
 
-Thank you !!!
-
-[![Coding GIF](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)](https://your-link-here.com)
+                                                    Thank you !!!
+ 
+                                                  [![Coding GIF](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)](https://your-link-here.com)
 

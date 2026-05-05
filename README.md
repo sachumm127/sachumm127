@@ -22,9 +22,9 @@
 - Infrastructure As a Code: Terraform,Ansible
 
 ## 🏆 Certifications
-🎯 CKA (Certified Kubernetes Administrator)
-🎯 RHCE (Red Hat Certified Engineer)
-🎯 RHCSA (Red Hat Certified System Administrator)
+- 🎯 CKA (Certified Kubernetes Administrator)
+- 🎯 RHCE (Red Hat Certified Engineer)
+- 🎯 RHCSA (Red Hat Certified System Administrator)
 
 ## 📈 GitHub Stats
 

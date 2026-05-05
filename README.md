@@ -12,14 +12,14 @@
 
 ## 🧑‍💻 About Me
 
-🚀 DevOps Engineer with a strong focus on **automation, scalability, and security**
+🚀 DevOps Engineer focused on **automation, scalability, and secure cloud systems**
 
-* 🔭 Working on **cloud-native & Kubernetes-based systems**
-* ☁️ Experienced in **AWS & Azure**
-* 🔐 Exploring **DevSecOps & security best practices**
+* 🔭 Building **cloud-native & Kubernetes-based solutions**
+* ☁️ Hands-on with **AWS & Azure**
+* 🔐 Exploring **DevSecOps & security practices**
 * ⚙️ Passionate about **CI/CD, IaC & observability**
 * 💬 Ask me about **Kubernetes, AWS, DevOps pipelines**
-* ⚡ Fun fact: *Bikes 🏍️ + Cricket 🏏 = My reset button*
+* ⚡ Fun fact: *Bikes 🏍️ + Cricket 🏏 = my reset button*
 
 ---
 
@@ -67,6 +67,14 @@
 * 🎯 CKA (Certified Kubernetes Administrator)
 * 🎯 RHCE (Red Hat Certified Engineer)
 * 🎯 RHCSA (Red Hat Certified System Administrator)
+
+---
+
+## 🚀 Featured Work (Add your best projects here)
+
+* 🔹 Kubernetes Production Deployment Setup
+* 🔹 CI/CD Pipeline with GitHub Actions & ArgoCD
+* 🔹 Terraform-based AWS Infrastructure Automation
 
 ---
 

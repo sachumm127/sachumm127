@@ -89,15 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachumm127&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachumm127/sachumm127/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

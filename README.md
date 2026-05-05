@@ -18,7 +18,7 @@
 - Continuous Integration/Continuous Deployment: Jenkins,AWS CodePipeline,GitHub Actions,GitLab,ArgoCD.
 - Source Code Management/Version Control: GitHub, BitBucket, GitLab
 - Infrastructure As a Code: Terraform,Ansible
-- Certifications: RHCE,RHCSA
+- Certifications: CKA,RHCE,RHCSA
 
 ## 📈 GitHub Stats
 
